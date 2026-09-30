@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "_id": "a39bc67af7424d81b9b66c2e",
+      "name": "Maheshwar Mishra",
+      "mobile": "9516335171",
+      "email": "maheshwarmishra448@gmail.com",
+      "passwordHash": "$2a$12$lE3uTi/x6eXp6R71h5oZ1uTHAeR1CkraqAZBI9LONF6eX1anwA3sG",
+      "verified": true
+    }
+  ],
+  "applications": []
+}
