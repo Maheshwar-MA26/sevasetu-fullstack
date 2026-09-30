@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SEVASETU — Full-Stack Hackathon MVP v6
 
 ## What's improved in v6
@@ -25,3 +26,6 @@ In development, OTP is printed in the server terminal. A real SMS provider is no
 
 ## MongoDB
 If `MONGODB_URI` is configured and reachable, MongoDB is used. Otherwise the local fallback database is used.
+=======
+# sevasetu-fullstack
+>>>>>>> fa5e3b7c0ffaabc7b93697fab7bd03bc87cd3e03
